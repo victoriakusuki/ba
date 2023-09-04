@@ -1,0 +1,51 @@
+body{
+    background-image: url(restaurante-de-cafe-cafeteria-borrao-com-fundo-bokeh_1421-472.avif);
+    text-align: center;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    }
+    
+    h1{
+    
+    height: 80px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.194)
+    
+    }
+    
+    .conteiner{
+    
+    font-size: 15px;
+    background-color: rgba(0, 0, 0, 0.525);
+    margin-top: 20vh;
+    box-sizing: border-box;
+    border-radius: 6%;
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+    color: white;
+    font-size: 20px;
+    
+    }
+    
+    .logo{
+       
+     max-width: 10%; 
+    justify-content:center;
+    
+    }
+    
+    button{
+    
+    border-radius: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(221, 221, 221);
+    color: black;
+    }
+    
+    
